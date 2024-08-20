@@ -1,1 +1,1 @@
-A Reposit of Software Construction for KU83 @KUKPS
+A Repository used to archive all code from Software Construction for CS major @KU KPS
